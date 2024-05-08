@@ -13,7 +13,7 @@ const Contact = () => {
         <ul className="list-disc ml-6 mt-2">
           <li>Email: info@jodamasjidfundraiser.com</li>
           <li>Phone: +91 1234567890</li>
-          <li>Address: Joda Masjid, Your City, Your Country</li>
+          <li>Address: Joda Masjid, Gaya, India</li>
         </ul>
       </section>
       {/* Contact Form */}
